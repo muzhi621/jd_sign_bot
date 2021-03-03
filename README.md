@@ -12,7 +12,7 @@ fork自：[ruicky/jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
 </p>
 
 # 京东自动签到
-功能：
+功能：           
 1. 获取签到最新代码
 2. 替换参数值
 3. 签到并发送通知
